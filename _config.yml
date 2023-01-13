@@ -18,6 +18,8 @@ navigation:
     url: /index.html
   - title: About
     url: /about
+  - title: Docs
+    url: /docs
   - title: Contact
     url: /contact
 
