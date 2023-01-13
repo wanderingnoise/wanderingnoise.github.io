@@ -18,17 +18,17 @@ navigation:
     url: /index.html
   - title: About
     url: /about
-  - title: Docs
-    url: /docs
   - title: Contact
     url: /contact
+  - title: Docs
+    url: /docs
 
 social:
   github: wanderingnoise
   twitter: wanderingnoise
-  facebook: wanderingnoise
+  # facebook: wanderingnoise
   email: hello@wanderingnoise.com
-  linkedin: wanderingnoise
+  # linkedin: wanderingnoise
 
 google_analytics: "G-Y5MLRVRCP6"
 
