@@ -12,7 +12,7 @@ In fact, I've also started to speak a new language (a "nordic" one) thru dedicat
 
 That said, thanks to a friend suggestion, I stopped the Google ML crash course to start reading a well-written book called ["Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/).
 
-This book is openmind in terms of approach and well mix the theory and the practice that I desperately need. Highly recommended.
+This book is openmind in terms of approach and well mixes the theory and the practice that I desperately need. <br/> Highly recommended.<br/> 
 Furthemore, practical example are written in Jupyter.
 I found tons of videos on the web based on Jupyter, that I never used and never was intended to use.
 
