@@ -10,7 +10,7 @@ description: Handle ML projects in Python with Jupyter
 To be honest I worked a bit to found a balance between all my interests and I realized ML is not the only field I'd like to explore.
 In fact, I've also started to speak a new language (a "nordic" one) thru dedicated lesson once per week and I'm approaching the finance fundamentals thru video courses and hard books.
 
-That said, thanks to a friend suggestion, I stopped the Google ML crash course to start reading a well-written book called ![https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/]("Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron.
+That said, thanks to a friend suggestion, I stopped the Google ML crash course to start reading a well-written book called ["Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron](https://www.oreilly.com/library/view/hands-on-machine-learning/9781098125967/).
 
 This book is openmind in terms of approach and well mix the theory and the practice that I desperately need. Highly recommended.
 Furthemore, practical example are written in Jupyter.
